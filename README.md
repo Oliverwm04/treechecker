@@ -4,7 +4,7 @@ Screens agricultural supply chains for EU Deforestation Regulation (EUDR) risk. 
 
 TreeChecker is a **triage tool**. It flags which suppliers need a full plot-level audit first. It does not give a final legal verdict.
 
-**Write-up:** (TreeChecker_Report.pdf): the problem, design decisions, market feedback and limitations.
+**Write-up:** [TreeChecker report (PDF)](TreeChecker_Report.pdf): the problem, design decisions, market feedback and limitations.
 
 ## How it works
 
