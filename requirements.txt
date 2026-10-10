@@ -1,0 +1,6 @@
+earthengine-api
+pandas
+openpyxl
+requests
+pillow
+fpdf2
